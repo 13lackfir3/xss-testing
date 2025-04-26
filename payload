@@ -1,0 +1,4 @@
+<!doctype html>
+<script>
+  alert("🚨 XSS from payload.html 🚨");
+</script>
